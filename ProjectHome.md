@@ -1,0 +1,1 @@
+WCF Server Application for the ucs-xna-rmi-draughts Game
